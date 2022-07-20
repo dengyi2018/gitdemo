@@ -3,7 +3,8 @@ package com.after.gittest;
 /**
  * @author ck
  */
-public class study {
+public class Study {
     int age;
     String name;
+    int ages;
 }
